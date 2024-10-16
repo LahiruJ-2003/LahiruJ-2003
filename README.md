@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Lahiru Rajakaruna Jayasinghe</h1>
 <h3 align="center">A passionate UI/UX engineer/ Graphic designer/ Front-end developer from Srilanka</h3>
 
